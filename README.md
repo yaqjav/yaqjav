@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2>👋 Hi, I'm Yaqjav.</h2>
+<img src="https://i.ibb.co/7NCmk95c/jjaworski-dark-theme-banner.png" alt="jjaworski-dark-theme-banner" width="100%">
+<p align="center">📫 You can reach me on <a target="_blank" href="https://t.me/yaquenj">Telegram</a> or my <a target="_blank" href="mailto:kontakt@jjaworski.pl">email address</a></p>
 
-<!--
-**yaqjav/yaqjav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+	<br>
+	<img width="550px" align="center" src="https://wakatime.com/share/@7ddd9c07-3d30-4314-8234-841dff26e5ee/5c90db74-438f-4597-9f50-1e4c8ff4b2d3.svg">
+</div>
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,html,css,sass,discordjs,react,mongodb,mysql,java,postman,c,cpp,prisma&theme=dark&perline=9" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=yaquenj&color=blue)
