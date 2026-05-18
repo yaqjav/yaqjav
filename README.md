@@ -1,5 +1,5 @@
 <h2>👋 Hi, I'm Yaqjav.</h2>
-<img src="https://i.ibb.co/7NCmk95c/jjaworski-dark-theme-banner.png" alt="jjaworski-dark-theme-banner" width="100%">
+<img src="https://i.ibb.co/Gf5b9x0V/jjaworski-dark-theme-banner.png" alt="jjaworski-dark-theme-banner" width="100%">
 <p align="center">📫 You can reach me on <a target="_blank" href="https://t.me/yaquenj">Telegram</a> or my <a target="_blank" href="mailto:kontakt@jjaworski.pl">email address</a></p>
 
 <div align="center">
